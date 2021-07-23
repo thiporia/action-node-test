@@ -6,4 +6,4 @@
 2. yarn build
 3. yarn test
 
-[config file](/action-node-test/.github/workflows/node.js.yml)
+[config file](/.github/workflows/node.js.yml)
